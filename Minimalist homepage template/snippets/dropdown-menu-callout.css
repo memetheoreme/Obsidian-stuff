@@ -1,0 +1,53 @@
+/* ------------- DROPDOWN MENUE CALLOUT------------- */
+
+/* Customized callout for creating a dropdown menue for Obsidian.md
+ * Created by: https://github.com/memetheoreme
+ */
+
+ .callout[data-callout="menue"] {
+    --callout-color: red green blue;
+    --callout-icon: none;
+    border: 0px transparent rgb(var(--callout-color));
+    background-color: transparent;
+    font-family: 'Sono-Light';
+    border-width: 1px;
+    margin: 1px;
+    padding: 0px;
+    padding-top: 0em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+  }
+  
+  .callout[data-callout="menue"] .callout-title {
+    text-transform: uppercase;
+    padding-bottom: -1em;
+    padding-top: -1em;
+  }
+  
+  .callout[data-callout="menue"] .callout-title-inner {
+    font-family: 'Sono-Light';
+    font-style: normal;
+    font-size: 19px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+  }
+  
+  .callout[data-callout="menue"] .callout-fold {
+    position: absolute;
+    margin-right: -100px;
+    margin-left: -30px;
+  }
+  
+  .callout[data-callout="menue"] .callout-content {
+    background-color: rgba(var(--callout-color)), 1;
+    font-family: 'Raleway';
+    font-style: thin;
+    font-size: 14px;
+    color: #c8c8c8;
+    border-top-style: solid;
+    border-top-width: 0.5px;
+    padding-top: 1em;
+    padding-bottom: -1em;
+    margin-bottom: 0em;
+    margin-top: 0em;
+  }
