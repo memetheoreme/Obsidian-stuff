@@ -1,22 +1,33 @@
-# Minimalist Obsidian Homepage Template with Dropdown menue
+# Homepage Template with ✨Rad✨ Menue
+
 Here is a template for a minimalist homepage for [Obsidian.md](https://obsidian.md/) along with two custom CSS Snippets for callout styling. 
 
-I apologize in advance for the the messy snippets. I am *very* new to the world of CSS and learning as I go (this is also my first upload to github congrats to me). Sharing this is one way for me to push myself to learn it properly, and I am open to feedback! ✨ 
+I apologize in advance for the the messy snippets. I am *very* new to the world of CSS and learning as I go (this is also my first upload to github congrats to me). Sharing this is one way for me to push myself to learn it properly. I am open to feedback! ✨ 
+
+<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/Minimalist%20homepage%20template/homepagegif1.gif?raw=true" data-hpc="true"  width="500" />
 
 Hope someone finds this handy!
 
-## Screenshots
-
-[Include screenshots of your Obsidian setup and callout styles if applicable.]
-
+---
 
 ## Features
 
 - **Minimalist Homepage Template:** A minimalist template for your vault!
 - **Custom Callout Styles:** Two CSS files (`dropdown-menue-callout.css` and `dotted-top-bottom-callout.css`) to style callouts.
 - **Plugin Requirements:** This template is designed to work seamlessly with the following plugins:
-  - [Obsidian Columns](https://github.com/tnichols217/obsidian-columns) by tnichols217
-  - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) by blacksmithgu
+  - [Obsidian Columns](https://github.com/tnichols217/obsidian-columns) by *tnichols217*
+  - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) by *blacksmithgu*
+
+## Screenshots
+
+**Dark Mode**
+
+<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/Minimalist%20homepage%20template/homepage%20template%20dark.png?raw=true" data-hpc="true"  width="650" />
+
+**Light Mode**
+
+<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/Minimalist%20homepage%20template/homepage%20template%20light.png?raw=true" data-hpc="true"  width="650" />
+
 
 ## Usage
 
@@ -29,7 +40,7 @@ Hope someone finds this handy!
      - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 
 3. **Minimal Theme:**
-   - (Optional) For an enhanced visual experience, consider using the [Minimal Theme](https://github.com/kepano/obsidian-minimal) by kepano. 
+   - (Optional) For an enhanced visual experience, consider using the [Minimal Theme](https://github.com/kepano/obsidian-minimal) by *kepano*. 
     - Screenshots in this repository use this theme, and I have not tested the callouts with other themes. I have also used other snippets to change the look of the Minimal theme, so if your homepage does not look exactly like the screenshots, that might be why. I eventually plan on making a vault template once I have time.
 
 4. **Custom CSS:**
@@ -41,7 +52,7 @@ Hope someone finds this handy!
 
 
 
-## How-to Resources
+## Need Help?
 
 - [Obsidian Help](https://help.obsidian.md/Home)
 - [How to Use CSS Snippets in Obsidian](https://help.obsidian.md/Extending+Obsidian/CSS+snippets)
