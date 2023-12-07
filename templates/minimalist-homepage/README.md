@@ -4,11 +4,8 @@ Here is a template for a minimalist homepage for [Obsidian.md](https://obsidian.
 
 I apologize in advance for the the messy snippets. I am *very* new to the world of CSS and learning as I go (this is also my first upload to github congrats to me). Sharing this is one way for me to push myself to learn it properly. I am open to feedback! ✨ 
 
-<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/Minimalist%20homepage%20template/homepagegif1.gif?raw=true" data-hpc="true"  width="500" />
+<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/media/homepagegif1.gif?raw=true" data-hpc="true"  width="650" />
 
-Hope someone finds this handy!
-
----
 
 ## Features
 
@@ -22,12 +19,12 @@ Hope someone finds this handy!
 
 **Dark Mode**
 
-<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/Minimalist%20homepage%20template/homepage%20template%20dark.png?raw=true" data-hpc="true"  width="650" />
+<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/media/minimalist%20homepage%20template%20dark.png?raw=true" data-hpc="true"  width="650" />
+
 
 **Light Mode**
 
-<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/Minimalist%20homepage%20template/homepage%20template%20light.png?raw=true" data-hpc="true"  width="650" />
-
+<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/media/homepage%20template%20light.png?raw=true" data-hpc="true"  width="650" />
 
 ## Usage
 
