@@ -1,0 +1,44 @@
+/* -------- DOTTED BORDER TOP+BOTTOM CALLOUT -------- */
+
+/* Customized minimalist callout with a dotted top+bottom border for Obsidian.md
+ * Created by https://github.com/memetheoreme
+ */
+
+.callout[data-callout="dot-border"] {
+    --callout-color: red green blue;
+    --callout-icon: none;
+    font-family: 'Sono-Light';
+    border-top: 1px dotted rgb(126, 124, 124);
+    border-bottom: 1px dotted rgb(126, 124, 124);
+    border-right: none;
+    border-left: none;
+    border-radius: 0%;
+    background-color: transparent;
+    margin: 6px;
+    padding: 1px;
+  }
+  
+  .callout[data-callout="dot-border"] .callout-title {
+    text-transform: uppercase;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+  }
+  
+  .callout[data-callout="dot-border"] .callout-title-inner {
+    font-size: 16px;
+    font-weight: 100;
+  }
+  
+  .callout[data-callout="dot-border"] .callout-content {
+    background-color: rgba(var(--callout-color), 1);
+    font-family: 'Raleway';
+    font-style: thin;
+    font-size: 14px;
+    position: relative;
+    left: 30px;
+    padding-top: -1em;
+    padding-bottom: -1em;
+    margin-bottom: 0em;
+    margin-top: 0em;
+    text-indent: 5px;
+  }
