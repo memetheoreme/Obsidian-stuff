@@ -1,10 +1,10 @@
 # Homepage Template with ✨Rad✨ Menue
 
-Here is a template for a minimalist homepage for [Obsidian.md](https://obsidian.md/) along with two custom CSS Snippets for callout styling. 
+<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/media/homepagegif1.gif?raw=true" data-hpc="true"  width="650" />
+
+A template for a minimalist homepage with pretty neat dropdown menues for [Obsidian.md](https://obsidian.md/) along with two custom CSS Snippets for callout styling. 
 
 I apologize in advance for the the messy snippets. I am *very* new to the world of CSS and learning as I go (this is also my first upload to github congrats to me). Sharing this is one way for me to push myself to learn it properly. I am open to feedback! ✨ 
-
-<img src="https://github.com/memetheoreme/Obsidian-stuff/blob/main/media/homepagegif1.gif?raw=true" data-hpc="true"  width="650" />
 
 
 ## Features
